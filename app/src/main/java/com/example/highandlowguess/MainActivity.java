@@ -52,6 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
         // need to create the random number generation method here or it will create always new
         // random whenever we pressed the button
-        generateRandomNumber();
+        generateRandomNumber();     //this function will generate random number
     }
 }
