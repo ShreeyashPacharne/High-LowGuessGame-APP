@@ -58,7 +58,7 @@
         android:layout_marginTop="47dp"
         android:layout_marginEnd="161dp"
         android:layout_marginBottom="343dp"
-        android:backgroundTint="#03A9F4"
+        android:backgroundTint="#2196F3"
         android:onClick="highLowGuess"
         android:text="GUESS"
         app:layout_constraintBottom_toBottomOf="parent"
